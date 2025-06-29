@@ -1547,10 +1547,10 @@ button.watchlist:hover{
             } 
        */
       
-}
+/* } */
 
 
-@media (max-width:1414){
+/* @media (max-width:1414){
     .top-box-office-container {
        
         height: 350px;
@@ -1581,4 +1581,4 @@ button.watchlist:hover{
     .dropdown {
       width: 100%;
     }
-  }
+  } */
